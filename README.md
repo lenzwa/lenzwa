@@ -35,7 +35,7 @@
 </div>
 <hr/>
 <p align="center"> 
-  Visitor count<br>
+  <b>Visitor count</b><br>
   <img src="https://profile-counter.glitch.me/lenzwa/count.svg" />
 </p>
  	<div>
