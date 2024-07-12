@@ -1,6 +1,6 @@
 
 
-<h1 style="font-size:70px">My stuff stack</h1>
+<h1 style="font-size:70px;">My stuff stack</h1>
 <div style='display: grid; grid-template-rows: repeat(3, 1fr); gap: 10px;'>
  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/>
  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
