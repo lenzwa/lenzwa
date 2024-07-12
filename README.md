@@ -1,6 +1,6 @@
 ## Hi there 👋
-<img src="https://img.shields.io/badge/Dotenv-#000000?style=for-the-badge&logo=.ENV&logoColor=#ECD53F"/>
-
+<img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/>
+https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white
 <!--
 **lenzwa/lenzwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
