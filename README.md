@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent?style=flat&logo=dotenv&logoColor=yellow">
+<img src="https://img.shields.io/badge/Dotenv-#000000?style=for-the-badge&logo=.ENV&logoColor=#ECD53F"/>
 
 <!--
 **lenzwa/lenzwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
