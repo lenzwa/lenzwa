@@ -55,7 +55,7 @@
 Буду рад сотрудничеству и обмену опытом!
   </div>
   <hr/>
-  <div style='display:flex;justify-content:center;'>
+  <div style='display:flex;justify-content:center;' align='center'>
  **Game is in progress.** This is open to ANYONE to play the next move. That's the point. :wave:  It's your turn! Move a black (solid) piece.
 
 |   | A | B | C | D | E | F | G | H |
