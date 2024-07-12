@@ -57,7 +57,7 @@
   <hr/>
   <div style='display:flex;justify-content:center;' align='center'>
 <h2>Играй в игру</h2>
-[![](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)](#)
+
   </div>
 <!--
 **lenzwa/lenzwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
